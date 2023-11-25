@@ -5,3 +5,7 @@
 ### localhost:9999/customer-service/customers
 
 ![image](https://github.com/hayatelallaouy01/Micro-Services-Architecture-Ecom-emsi/assets/123452386/3e3b4bd7-cd2f-44f1-86af-251f84f56f1e)
+
+### localhost:9999/inventory-service/products
+
+![image](https://github.com/hayatelallaouy01/Micro-Services-Architecture-Ecom-emsi/assets/123452386/7021c218-7a91-4ff6-922c-7326248792b3)
