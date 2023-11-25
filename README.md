@@ -17,4 +17,5 @@
   * Link : https://github.com/hayatelallaouy01/Micro-Services-Architecture-Ecom-emsi/tree/master/gateway-service
  ### Inventory - service 
   * Link : https://github.com/hayatelallaouy01/Micro-Services-Architecture-Ecom-emsi/tree/master/inventory-service
-
+### Order - service 
+  * Link :  https://github.com/hayatelallaouy01/Micro-Services-Architecture-Ecom-emsi/tree/master/order-service
