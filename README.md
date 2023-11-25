@@ -8,4 +8,7 @@
 
 ![image](https://github.com/hayatelallaouy01/Micro-Services-Architecture-Ecom-emsi/assets/123452386/2571ebce-0f22-4f9d-a123-8bdeab44a4c6)
 
+### Commande pour lancer Vault
+##### > vault server -dev
+
 
