@@ -1,3 +1,8 @@
+## Order service 
+
+![image](https://github.com/hayatelallaouy01/Micro-Services-Architecture-Ecom-emsi/assets/123452386/5f4c741c-2f00-4250-87f8-5ebd42ef4209)
+
+
 ### localhost:8500/ui/dc1/services
 
 ![image](https://github.com/hayatelallaouy01/Micro-Services-Architecture-Ecom-emsi/assets/123452386/29d50942-1d77-42f1-b478-9309f9e38edf)
