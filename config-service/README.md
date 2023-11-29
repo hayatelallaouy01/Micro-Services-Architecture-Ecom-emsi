@@ -1,3 +1,8 @@
+
+## COnfig -service Application 
+
+![image](https://github.com/hayatelallaouy01/Micro-Services-Architecture-Ecom-emsi/assets/123452386/d2740856-253c-4b51-a4db-6d6502e66485)
+
 ### localhost:8500/ui/dc1/services
 
 ![image](https://github.com/hayatelallaouy01/Micro-Services-Architecture-Ecom-emsi/assets/123452386/0d07de5f-d25d-40cf-b474-c77a0426f396)
