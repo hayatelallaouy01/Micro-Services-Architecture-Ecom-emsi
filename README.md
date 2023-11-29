@@ -39,6 +39,7 @@
 ![image](https://github.com/hayatelallaouy01/Micro-Services-Architecture-Ecom-emsi/assets/123452386/146e5a64-2a09-42ab-81fc-87d3e0f1ae8e)
 
 ## localhost:4200/order-details/14
+
 ![image](https://github.com/hayatelallaouy01/Micro-Services-Architecture-Ecom-emsi/assets/123452386/68ddb0c3-b4ed-478e-b5db-30cf719a0b04)
 
 
